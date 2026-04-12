@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ==========================================
-# 1. RESEARCH-GRADE SETUP
+# 1. RESEARCH SETUP
 # ==========================================
 print("Initializing Fast 2D MRI Simulation Engine...")
 NR, NPHI = 128, 128
