@@ -174,7 +174,7 @@ intercept = coefficients[1]
 
 # 5. Print the result to the PyCharm Terminal
 print("\n" + "="*50)
-print(f"🔥 CALCULATED GROWTH RATE (Lambda): {lambda_val:.4f}")
+print(f" CALCULATED GROWTH RATE (Lambda): {lambda_val:.4f}")
 print("="*50 + "\n")
 
 # 6. Add the red dashed line to your 3rd graph (axes[2])
