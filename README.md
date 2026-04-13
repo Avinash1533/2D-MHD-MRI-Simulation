@@ -60,7 +60,7 @@ The magnetic energy begins to grow exponentially as small perturbations are ampl
 ---
 
 ### 2. Growth Rate Analysis — Curve Fitting  
-![2D-MHD-MRI-SIMULATION](100s,lambda.png)
+![2D-MHD-MRI-SIMULATION](100s_lambda.png)
 
 **What is happening:**  
 A log-linear fit is applied to the exponential growth phase of magnetic energy.
@@ -87,7 +87,7 @@ Magnetic energy reaches a saturation level as magnetic tension balances further 
 ---
 
 ### 4. High-Resolution Run (256 × 256) — Convergence Check  
-![2D-MHD-MRI-SIMULATION](500s,256.png)
+![2D-MHD-MRI-SIMULATION](500s_256.png)
 
 **What is happening:**  
 A higher-resolution simulation is used to verify the robustness of the results.
