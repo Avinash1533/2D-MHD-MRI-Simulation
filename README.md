@@ -1,10 +1,25 @@
 # 2D-MHD-MRI-Simulation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19553385.svg)](https://doi.org/10.5281/zenodo.19553385)
+
 A Python-based 2D Magnetohydrodynamic simulation of the Magneto-Rotational Instability using Constrained Transport.
 ## 🧮 The Governing Physics (Equations)
 
 This project does not rely on any pre-built physics engine. Instead, it directly implements the core equations of ideal Magnetohydrodynamics (MHD) in a 2D setting to model the behavior of a magnetized accretion disk.
 
----
+
+📄 **Research Paper (DOI):** https://doi.org/10.5281/zenodo.19553385
+
+This repository contains a fully vectorized Python-based magnetohydrodynamic (MHD) solver developed to simulate Magnetorotational Instability (MRI) in accretion disks.
+
+
+## 📁 Project Structure
+
+- `main.py` – Core simulation engine  
+- `solver/` – MHD numerical methods  
+- `plots/` – Visualization outputs  
+- `results/` – Simulation results
+
 
 ### 1. Differential Rotation (The Driver of MRI)
 
@@ -109,3 +124,10 @@ Across all stages, the simulation reproduces the key physical signatures of magn
 These results indicate that the model captures the essential physics of MRI in a Keplerian disk.
 
 This project started as a personal attempt to understand how MRI works beyond equations — and evolved into a simulation that reproduces its key physical behavior.
+
+
+## 📄 Publication
+
+This work is published as a preprint on Zenodo:
+
+https://doi.org/10.5281/zenodo.19553385
