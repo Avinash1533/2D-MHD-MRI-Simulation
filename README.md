@@ -5,6 +5,11 @@
 A Python-based 2D Magnetohydrodynamic simulation of the Magneto-Rotational Instability using Constrained Transport.
 
 
+This project implements a vectorized MHD solver to simulate Magnetorotational Instability (MRI) in accretion disks, capturing turbulence and angular momentum transport.
+
+Validated with a growth rate of γ ≈ 0.182 consistent with theory.
+
+
 📄 **Research Paper (DOI):** https://doi.org/10.5281/zenodo.19553385
 
 This repository contains a fully vectorized Python-based magnetohydrodynamic (MHD) solver developed to simulate Magnetorotational Instability (MRI) in accretion disks.
